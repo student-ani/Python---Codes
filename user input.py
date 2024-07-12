@@ -1,0 +1,10 @@
+#take input from student
+print("Student ID")
+name=input("Enter student name: ")
+age=input("Enter age of student: ")
+grade=input("Enter grade of student: ")
+ph_no=input("Enter phone number: ")
+print("Name- ",name)
+print("Age- ",age)
+print("Class- ",grade)
+print("Phone number- ",ph_no)
